@@ -1,0 +1,10 @@
+{
+ "name": "flowjuan",
+ "version": "1.0.0",
+ "type": "module",
+ "description": "Primera aplicacion CodeRider flow",
+ "scripts": {
+ "start": "node src/app.js",
+ "test": "node test/app.test.js"
+ }
+}
