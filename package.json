@@ -1,8 +1,8 @@
 {
- "name": "MIGUELFLOW",
+ "name": "juanflow",
  "version": "1.0.0",
  "type": "module",
- "description": "Primera aplicacion Miguel Flow",
+ "description": "Primera aplicacion Juan Flow",
  "scripts": {
  "start": "node src/app.js",
  "test": "node test/app.test.js"
