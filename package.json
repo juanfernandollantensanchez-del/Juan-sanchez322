@@ -1,0 +1,10 @@
+{
+ "name": "MIGUELFLOW",
+ "version": "1.0.0",
+ "type": "module",
+ "description": "Primera aplicacion Miguel Flow",
+ "scripts": {
+ "start": "node src/app.js",
+ "test": "node test/app.test.js"
+ }
+}
