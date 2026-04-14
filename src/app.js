@@ -17,10 +17,7 @@ message: "Sistema JuanFlow funcionando correctamente"
 export function sumar(a,b){
 return a + b;
 }
-export function healthCheck(){
-return { 
-status: 'ok', 
-timestamp: new Date().toISOString(),
-servicio: 'StreamFlow API',
-version: '1.0.0',
-};
+
+export function restar(c,d){
+return c - d;
+}
