@@ -1,16 +1,16 @@
 export function saludar(nombre){
-return "Hola" + nombre + ", bienvenido a aplicacion de MiguelFlow!";
+return "Hola" + nombre + ", bienvenido a aplicacion de JuanFlow!";
 }
 
 export function despedir(nombre){
-return "hasta pronto," + nombre + "!MiguelFlow";
+return "hasta pronto," + nombre + "!JuanFlow";
 }
 
 export function estadoSistema() {
 return {
 estado: "activo",
 version:"1.0.0",
-message: "Sistema MiguelFlow funcionando correctamente"
+message: "Sistema JuanFlow funcionando correctamente"
  };
 }
 

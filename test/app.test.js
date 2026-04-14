@@ -1,3 +1,4 @@
+import { saludar, despedir, estadoSistema, sumar, restar, healtcheck } from "../src/app.js"
 import { saludar, despedir, estadoSistema, sumar, restar } from "../src/app.js"
 
 function ejecutarPruebas() {
@@ -6,8 +7,8 @@ function ejecutarPruebas() {
 
     console.log("Iniciando pruebas...");
 
-    const r1 = saludar("Miguel")
-    if (r1.includes("Miguel")) {
+    const r1 = saludar("Juan")
+    if (r1.includes("Juan")) {
         console.log("Test 1 pasado: funcion saludar correcta")
         pasadas++;
     } else {
