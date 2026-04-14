@@ -1,12 +1,12 @@
-import { saludar, despedir, estadoSistema, sumar, restar } from "../src/app.js"
+import { saludar, despedir, estadoSistema, sumar, restar, healtcheck } from "../src/app.js"
 
 function ejecutarPruebas() {
     let pasadas = 0;
     let fallidas = 0;
 
-    const r1 = saludar("Miguel")
-    if (r1.includes("Miguel")) {
-        console.log("Test 1 pasado: funcion saludar en CodeMiguel es correcta")
+    const r1 = saludar("Juan")
+    if (r1.includes("Juan")) {
+        console.log("Test 1 pasado: funcion saludar en CodeJuan es correcta")
         pasadas++;
     } else {
         console.log("Test 1 Fallido:", r1);
