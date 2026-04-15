@@ -1,34 +1,20 @@
 <div align="center">
 
-# 💥 AKAZA VS TANJIRO 💥  
-## 🌊 La batalla final comienza 🌊
+# 💀 AKAZA ACTIVANDO SU TÉCNICA 💀
 
-![fight](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="500"/>
 
 ---
 
-> “Si quieres salvar a alguien… ¡debes ser más fuerte que el demonio!”
+## 👊 Técnica: Destrucción Mortal
+
+> “Solo los fuertes sobreviven en este mundo.”
+
+---
+
+### 🔥 Estado
+- 🟥 Poder: Máximo  
+- 👊 Técnica activada  
+- 💀 Modo combate: activo  
 
 </div>
-
----
-
-## 👺 AKAZA - DEMONIO DE ALTO NIVEL
-
-- 💀 Técnica: Destrucción Mortal  
-- 👊 Estilo: Combate cuerpo a cuerpo  
-- 🔥 Poder: Regeneración avanzada  
-- 😈 Objetivo: Romper la voluntad humana  
-
----
-
-## 🗡️ TANJIRO KAMADO
-
-- 🌊 Respiración del Agua  
-- 🔥 Respiración del Sol (progreso)  
-- 💪 Determinación: INFINITA  
-- ❤️ Motivo: Proteger a Nezuko  
-
----
-
-## ⚔️ ESCENA DE BATALLA
