@@ -1,20 +1,42 @@
 <div align="center">
 
-# 💀 AKAZA ACTIVANDO SU TÉCNICA 💀
-
-<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="500"/>
+# 👺 AKAZA DEMON SLAYER PROJECT 👺
 
 ---
 
-## 👊 Técnica: Destrucción Mortal
-
-> “Solo los fuertes sobreviven en este mundo.”
+<img src="https://i.pinimg.com/originals/7b/akaza-demon-slayer.jpg" width="500"/>
 
 ---
 
-### 🔥 Estado
-- 🟥 Poder: Máximo  
-- 👊 Técnica activada  
-- 💀 Modo combate: activo  
+## ⚔️ Desarrollado por: **TU NOMBRE AQUÍ**
+
+### 💀 Proyecto inspirado en Kimetsu no Yaiba
+
+---
+
+## 👊 Descripción
+
+Este proyecto está basado en el universo de Demon Slayer, representando el poder de los demonios y la lucha contra los cazadores.
+
+---
+
+## 🔥 Tecnologías usadas
+
+- JavaScript ⚡  
+- Node.js 🌿  
+- Git & GitHub 🐙  
+
+---
+
+## 👺 Estado del proyecto
+
+🟥 En modo demonio activo  
+⚔️ En desarrollo continuo  
+
+---
+
+## 💀 Frase de Akaza
+
+> “La fuerza es justicia… los débiles deben desaparecer.”
 
 </div>
