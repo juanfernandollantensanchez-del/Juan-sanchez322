@@ -22,21 +22,13 @@ export function restar(c, d){
   return c - d;
 }
 
-// 🧠 Función factorial
+// ✔ versión correcta (arreglada)
 export function factorial(n){
-  if (n < 0) {
-    return "No existe factorial de números negativos";
-  }
-
-  if (n === 0 || n === 1) {
-    return 1;
-  }
+  if (n < 0) return "No existe factorial de negativos";
 
   let resultado = 1;
-
-  for (let i = 2; i <= n; i++) {
+  for (let i = 1; i <= n; i++) {
     resultado *= i;
   }
-
   return resultado;
 }

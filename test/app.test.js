@@ -1,76 +1,25 @@
-import { saludar, despedir, estadoSistema, sumar, restar, factorial } from "../src/app.js";
+import { saludar, estadoSistema, sumar, restar, factorial } from "../src/app.js";
 
 function ejecutarPruebas() {
     let pasadas = 0;
     let fallidas = 0;
 
-    console.log("Iniciando pruebas...");
+    console.log("Iniciando pruebas...\n");
 
-    // TEST 1 - saludar
     const r1 = saludar("Juan");
-    if (r1.includes("Juan")) {
-        console.log("Test 1 pasado: funcion saludar correcta");
-        pasadas++;
-    } else {
-        console.log("Test 1 Fallido:", r1);
-        fallidas++;
-    }
+    if (r1.includes("Juan")) pasadas++; else fallidas++;
 
-    // TEST 2 - estadoSistema
-    const actualEstado = estadoSistema();
-    if (actualEstado.estado === "activo") {
-        console.log("Test 2 pasado: estadoSistema correcto");
-        pasadas++;
-    } else {
-        console.log("Test 2 Fallido:", actualEstado);
-        fallidas++;
-    }
+    const estado = estadoSistema();
+    if (estado.estado === "activo") pasadas++; else fallidas++;
 
-    // TEST 3 - sumar
-    const a = 20;
-    const b = 15;
+    if (sumar(10, 5) === 15) pasadas++; else fallidas++;
 
-    const sumarResultado = sumar(a, b);
+    if (restar(10, 5) === 5) pasadas++; else fallidas++;
 
-    console.log("resultado de sumar:", a, "+", b, "=", sumarResultado);
+    const f = factorial(5);
+    console.log("factorial:", f);
 
-    if (sumarResultado === a + b) {
-        console.log("Test 3 pasado: sumar funciona");
-        pasadas++;
-    } else {
-        console.log("Test 3 Fallido:", sumarResultado);
-        fallidas++;
-    }
-
-    // TEST 4 - restar
-    const c = 10;
-    const d = 5;
-
-    const restarResultado = restar(c, d);
-
-    console.log("resultado de restar:", c, "-", d, "=", restarResultado);
-
-    if (restarResultado === c - d) {
-        console.log("Test 4 pasado: restar funciona");
-        pasadas++;
-    } else {
-        console.log("Test 4 Fallido:", restarResultado);
-        fallidas++;
-    }
-
-    // 🧠 TEST 5 - factorial
-    const n = 5;
-    const factorialResultado = factorial(n);
-
-    console.log("resultado de factorial:", n, "! =", factorialResultado);
-
-    if (factorialResultado === 120) {
-        console.log("Test 5 pasado: factorial funciona");
-        pasadas++;
-    } else {
-        console.log("Test 5 Fallido:", factorialResultado);
-        fallidas++;
-    }
+    if (f === 120) pasadas++; else fallidas++;
 
     console.log("\nResultados:", pasadas, "pasadas,", fallidas, "fallidas");
 
