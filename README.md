@@ -1,56 +1,34 @@
-<h1 align="center">👋 Hola, soy Juan</h1>
+<div align="center">
 
-<p align="center">
-  💻 Desarrollador Web | 🚀 Creando proyectos | 🌎 Aprendiendo cada día
-</p>
+# 💥 AKAZA VS TANJIRO 💥  
+## 🌊 La batalla final comienza 🌊
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Backend+Learner;Full+Stack+Journey" />
-</p>
+![fight](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ---
 
-## 🧠 Sobre mí
+> “Si quieres salvar a alguien… ¡debes ser más fuerte que el demonio!”
 
-- 🔭 Estoy trabajando en proyectos web  
-- 🌱 Aprendiendo JavaScript y React  
-- ⚡ Me gusta crear cosas simples pero útiles  
+</div>
 
 ---
 
-## 🛠️ Tecnologías
+## 👺 AKAZA - DEMONIO DE ALTO NIVEL
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
-</p>
+- 💀 Técnica: Destrucción Mortal  
+- 👊 Estilo: Combate cuerpo a cuerpo  
+- 🔥 Poder: Regeneración avanzada  
+- 😈 Objetivo: Romper la voluntad humana  
 
 ---
 
-## 🚀 Proyectos
+## 🗡️ TANJIRO KAMADO
 
-- 🔥 Proyecto 1  
-- ⚙️ Proyecto 2  
-- 💡 Proyecto 3  
-
----
-
-## 🌐 Contacto
-
-<p align="center">
-  📧 tuemail@gmail.com  
-  💼 LinkedIn: https://linkedin.com/in/tuusuario  
-</p>
+- 🌊 Respiración del Agua  
+- 🔥 Respiración del Sol (progreso)  
+- 💪 Determinación: INFINITA  
+- ❤️ Motivo: Proteger a Nezuko  
 
 ---
 
-<p align="center">
-  ⭐ Gracias por visitar mi perfil ⭐
-</p>
+## ⚔️ ESCENA DE BATALLA
