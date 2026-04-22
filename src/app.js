@@ -1,15 +1,24 @@
-export function saludar (nombre){
-return "Hello " + nombre + ", bienvenido a aplicación Juan"; 
+export function saludar(nombre) {
+    return "Hello " + nombre + ", bienvenido a aplicación Juan"; 
 }
 
-export function despedir (nombre){
-return "Hasta pronto, " + nombre + "!Juan";
+export function despedir(nombre) {
+    return "Hasta pronto, " + nombre + "!Juan";
 }
 
-export function estadoSistema(){
-return{
-estado: "activo",
-version: "1.0.0",
-message: "Sistema juan funcionando correctamente"
-};
+export function estadoSistema() {
+    return {
+        estado: "activo",
+        version: "1.0.0",
+        message: "Sistema juan funcionando correctamente"
+    };
+}
+
+export function sumar(a, b) {
+    return a + b;
+}
+
+// Nueva función: restar
+export function restar(a, b) {
+    return a - b;
 }
