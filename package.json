@@ -5,6 +5,7 @@
  "description": "Primera aplicacion CodeRider flow",
  "scripts": {
  "start": "node src/app.js",
- "test": "node test/app.test.js"
+ "test": "node test/app.test.js",
+ "build": "echo paso omitir para produccion en node.js"
  }
 }
